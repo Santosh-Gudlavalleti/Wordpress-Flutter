@@ -1,11 +1,15 @@
-# farzi_khabar_intern
+# Task Work
 
-A new Flutter project.
+An app that is able to fetch posts from the Wordpress site. 
 
-## Getting Started
+PS: The code is compiled after seeing quite a few tutorials, blogs and articles
 
-This project is a starting point for a Flutter application.
+## Insights of the App
 
+An app that is able to fetch posts from the Wordpress site and display them on your phone. The details of the post can be seen as well.  
+
+For Folks who are interested in App dev: 
+A few resources to get you started if with your first Flutter project:
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
