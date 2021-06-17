@@ -1,6 +1,6 @@
 # Task Work
 
-An app that is able to fetch posts/articles from the Wordpress site, process them and display them on the user's mobile.
+An app that is built to fetch posts/articles from the Wordpress site, process them and display them on the user's mobile.
 
 PS: The code is compiled after seeing quite a few tutorials, blogs and articles
 
